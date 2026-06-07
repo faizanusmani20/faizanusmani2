@@ -33,28 +33,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanusmani20&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanusmani20&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 📈 GitHub Activity Matrix
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanusmani20&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="85%" />
-</p>
-
----
+## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=faizanusmani20&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizanusmani20&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizanusmani20&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=faizanusmani20&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=faizanusmani20&layout=compact&theme=radical" alt="Top Languages" width="49.5%" />
+</p>
 
 ---
 
