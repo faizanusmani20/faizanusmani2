@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;Deep+Learning+Developer;Open+Source+Contributor" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 **Education:** B.Tech CSE Student
