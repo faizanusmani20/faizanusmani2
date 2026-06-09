@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm benignUmbra 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Code&size=24&color=ec407a&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;Deep+Learning+Developer;Open+Source+Contributor" 
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&color=ec407a&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;Deep+Learning+Developer;Open+Source+Contributor" 
 
 </p>
 
